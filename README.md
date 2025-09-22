@@ -44,3 +44,22 @@ The goal is to build strong fundamentals in **cybersecurity, networking, cryptog
    - Wireshark (packet capture)
    - Nmap (network scanning)
    - Burp Suite (web proxy)
+
+---
+
+
+## 📽️ Video Walkthrough
+🔗 [LinkedIn Post / Demo Video](your-link-here)
+
+---
+
+## 🚀 Next Steps
+Moving on to advanced modules: Exploitation, Vulnerability Analysis, and Real-World Attack Simulations.
+
+---
+
+### 📌 Connect with me
+- 💼 [LinkedIn](your-link-here)  
+-
+
+---
