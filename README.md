@@ -59,7 +59,9 @@ Moving on to advanced modules: Exploitation, Vulnerability Analysis, and Real-Wo
 ---
 
 ### 📌 Connect with me
-- 💼 [LinkedIn](your-link-here)  
+- 💼 www.linkedin.com/in/
+roopa-sri-yadla-71b796234
+
 -
 
 ---
