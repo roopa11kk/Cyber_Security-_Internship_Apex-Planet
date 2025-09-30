@@ -49,7 +49,7 @@ The goal is to build strong fundamentals in **cybersecurity, networking, cryptog
 
 
 ## 📽️ Video Walkthrough
-🔗 [LinkedIn Post / Demo Video](your-link-here)
+🔗https://www.linkedin.com/posts/roopa-sri-yadla-71b796234_cybersecurity-internship-ethicalhacking-activity-7376257055453745152-KTml?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADp-GYcBnK8XP_dHrBauk2I6g_nuLdSV8Og
 
 ---
 
